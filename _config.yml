@@ -113,10 +113,10 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "http://blogs-images.forbes.com/kerryhannon/files/2011/03/blog-PensionFund.jpg"
     date: "June 2016 - Today"
     description: "Handling half my personal pension"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "http://media.wiley.com/Lux/87/479487.image0.jpg"
     date: "April 2013 "
     description: "Buying my first stock "
 
