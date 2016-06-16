@@ -61,7 +61,8 @@ lines: # You can add HTML Tags in the Text
   - text: "Where’s your will to be weird?"
   - text: "Don't sell on a blood day"
 
-me-img: "" #"/img/jetpacktocat.png"
+#me-img: "/img/jetpacktocat.png"
+me-img: "https://az616578.vo.msecnd.net/files/responsive/cover/main/desktop/2016/05/02/6359777459868716991317630725_bw-anonymous-person.png"
 
 ##############################
 # Color the browser elements #
