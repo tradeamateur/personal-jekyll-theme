@@ -43,7 +43,7 @@ favicon: "/img/favicon.ico"
 black-favicon: "/img/black-lab-glass.ico"
 
 #background-img: "../img/intro-bg.jpg"
-background-img: "https://www.google.dk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjzqfnU3qzNAhUMFSwKHS_XAM8QjRwIBw&url=http%3A%2F%2Fblackengtech.com%2Ffinancial.html&psig=AFQjCNGB9b4omVE1J4pBCiXYvX5juIBoaQ&ust=1466173119199613"
+background-img: "http://blackengtech.com/img/pictures/finance.jpg"
 
 ##############################
 # Dynamic Text on the Header #
