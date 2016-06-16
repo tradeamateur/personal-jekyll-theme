@@ -113,7 +113,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "http://blogs-images.forbes.com/kerryhannon/files/2011/03/blog-PensionFund.jpg"
+  - image: "http://www.truerisk.com/images/retirement-savings-plan.jpg"
     date: "June 2016 - Today"
     description: "Handling half my personal pension"
   - image: "http://media.wiley.com/Lux/87/479487.image0.jpg"
