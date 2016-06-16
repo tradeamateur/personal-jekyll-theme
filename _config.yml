@@ -114,11 +114,11 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+    date: "June 2016 - Today"
+    description: "Handling half my personal pension"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "April 2013 "
+    description: "Buying my first stock "
 
 # First image of the Timeline
 
