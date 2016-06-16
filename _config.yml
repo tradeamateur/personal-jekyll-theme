@@ -114,7 +114,7 @@ syntax-highlight: True
 
 events:
   - image: "http://blog.sonneil.com/wp-content/uploads/2016/04/shutterstock_130660901-GEDBLog-Study-BREXIT.jpg"
-    date: "23 June 2016
+    date: "23 June 2016"
     description: "Potentially a BLOOD day"
   - image: "http://www.truerisk.com/images/retirement-savings-plan.jpg"
     date: "03 June 2016"
