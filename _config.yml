@@ -34,7 +34,7 @@ author: "Amateur Trader"
 title: "{ Amateur Trader }"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
 keywords: "smith, jones, personal, jekyll, theme"
-favicon: "/img/favicon.ico"
+favicon: ""#"/img/favicon.ico"
 
 ################
 # Header layout #
