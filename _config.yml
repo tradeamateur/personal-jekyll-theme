@@ -113,7 +113,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "https://c2.staticflickr.com/2/1678/25112888022_e7fdcdbdb1_b.jpg"
+  - image: "http://hozaminfo.com/wp-content/uploads/2016/06/Brexit-276x300.jpg"
     date: "23 June 2016"
     description: "Brexit ???"
   - image: "http://www.truerisk.com/images/retirement-savings-plan.jpg"
