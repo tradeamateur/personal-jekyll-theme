@@ -113,11 +113,13 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "http://blog.sonneil.com/wp-content/uploads/2016/04/shutterstock_130660901-GEDBLog-Study-BREXIT.jpg"
+    date: "23 June 2016
   - image: "http://www.truerisk.com/images/retirement-savings-plan.jpg"
-    date: "June 2016 - Today"
+    date: "03 June 2016"
     description: "Handling half my personal pension"
   - image: "http://media.wiley.com/Lux/87/479487.image0.jpg"
-    date: "April 2013 "
+    date: "12 April 2013 "
     description: "Buying my first stock "
 
 # First image of the Timeline
