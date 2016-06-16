@@ -113,7 +113,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "http://chronicle.com/blogs/linguafranca/files/2016/02/brexit.png"
+  - image: "https://img4.sentifi.com/sentifi-insight/wp-content/uploads/2016/05/06045930/brexit-200x200.png"
     #image: "http://bsmedia.business-standard.com/_media/bs/img/article/2016-02/23/full/1456234290-31.jpg"
     date: "23 June 2016"
     description: "Brexit ???"
