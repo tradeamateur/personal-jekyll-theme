@@ -113,7 +113,8 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "http://bsmedia.business-standard.com/_media/bs/img/article/2016-02/23/full/1456234290-31.jpg"
+  - image: "http://chronicle.com/blogs/linguafranca/files/2016/02/brexit.png"
+    #image: "http://bsmedia.business-standard.com/_media/bs/img/article/2016-02/23/full/1456234290-31.jpg"
     date: "23 June 2016"
     description: "Brexit ???"
   - image: "http://www.truerisk.com/images/retirement-savings-plan.jpg"
