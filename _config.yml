@@ -142,8 +142,9 @@ email: "tradeamateur@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author.png"
+author_blurb: "The Amateur Trader is an awesome person. That uses his leisure on stock analysis and ivestment."
+#author_blurb_image: "/img/author.png"
+author_blurb_image: "https://www.google.dk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiyl4bvgd_OAhWGBZoKHZcICN4QjRwIBw&url=https%3A%2F%2Fallthingslearning.wordpress.com%2F2012%2F06%2F26%2Fcurating-the-outta-the-internet%2Flearning-dummy%2F&bvm=bv.130731782,d.bGs&psig=AFQjCNF2QpdmYnPnbR7Xz6BeLzJNKCcdBA&ust=1472298594418624"
 
 ##################
 # Social Buttons #
